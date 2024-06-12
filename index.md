@@ -3,6 +3,12 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Te damos la bienvenida a la página web de la Red de Física Nuclear - Red FNUC. Aquí encontrarás información sobre:
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+- Los objetivos de la Red FNUC
+
+- Los Grupos de investigación que componen la Red FNUC
+
+- Noticias y anuncios relevantes para la comunidad, así como el archivo de Boletines FNUC
+
+- Información sobre eventos relacionados con la Red FNUC 

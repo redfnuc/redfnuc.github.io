@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "UCM-GCM"
+title: "UCM-GFN"
 ---
 
 Grupo de Física Nuclear
