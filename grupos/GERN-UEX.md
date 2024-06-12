@@ -7,7 +7,7 @@ Grupo Experimental de Radiaciones Nucleares
 
 Universidad de Extremadura
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://www.unex.es/conoce-la-uex/centros/cum/i-d-i/grupos-de-investigacion/rad.-nucleares)
 
 Representante FNUC: Alejandro Martín Sánchez
 
