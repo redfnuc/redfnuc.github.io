@@ -7,7 +7,30 @@ menu:
 #- {name: 'contact', url: '/contact'}
 
 grupos:
-- {name: 'GFN-UCM', title: 'Grupo de Física Nuclear', department: 'EMFTEL', institution: 'Universidad Complitense de Madrid', institution_address: 'Facultad de Ciencias Físicas, Plaza de Ciencias 1, 28040 Madrid', image: 'assets/img/UCM.png', url: 'GFN-UCM'}
+- {name: 'UIN-CIEMAT', title: 'Unidad de Innovación Nuclear',  institution: 'CIEMAT',  image: 'assets/img/CIEMAT.png', url: 'UIN-CIEMAT'}
+- {name: 'CNA-US-CSIC-JA', title: 'Centro Nacional de Aceleradores',  institution: 'CNA-US-CSIC-JA',  image: 'assets/img/CNA.jpg', url: 'CNA'}
+- {name: 'ICE-CSIC', title: 'Grupo de Astrofisica Nuclear y de Particulas',  institution: 'ICE-CSIC',  image: 'assets/img/ICE_CSIC.png', url: 'ICE-CSIC'}
+- {name: 'GFNE-IEM-CSIC', title: 'Grupo de Física Nuclear Experimental',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNE-IEM-CSIC'}
+- {name: 'GFNT-IEM-CSIC', title: 'Grupo de Física Nuclear Teórica',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNT-IEM-CSIC'}
+- {name: 'GA-IFIC-CSIC-UV', title: 'Grupo AGATA',  institution: 'IFIC-CSIC-UV',  image: 'assets/img/IFIC_CSIC_UV.png', url: 'GA-IFIC-CSIC-UV'}
+- {name: 'GEGN-IFIC-CSIC-UV', title: 'Grupo de Espectroscopía Gamma y de Neutrones',  institution: 'IFIC-CSIC-UV',  image: 'assets/img/IFIC_CSIC_UV.png', url: 'GEGN-IFIC-CSIC-UV'}
+- {name: 'GTHN-IFIC-CSIC-UV', title: 'Grupo de Teoría Hadrónica y Nuclear',  institution: 'IFIC-CSIC-UV',  image: 'assets/img/IFIC_CSIC_UV.png', url: 'GTHN-IFIC-CSIC-UV'}
+- {name: 'GRRI-UAB', title: 'Grup de Recerca en Radiacions Ionitzants',  institution: 'UAB',  image: 'assets/img/UAM.png', url: 'GRRI-UAB'}
+- {name: 'GFN-UAM', title: 'Grupo de Física Nuclear',  institution: 'UAM',  image: 'assets/img/UAM.png', url: 'GFN-UAM'}
+- {name: 'GFNT-UB', title: 'Grupo de Física Nuclear Teórica',  institution: 'UB',  image: 'assets/img/UB.jpg', url: 'GFNT-UB'}
+- {name: 'GFN-UCM', title: 'Grupo de Física Nuclear',  institution: 'UCM',  image: 'assets/img/UCM.png', url: 'GFN-UCM'}
+- {name: 'FINAE-UDC', title: 'Grupo de Física Nuclear',  institution: 'UDC',  image: 'assets/img/UDC.png', url: 'FINAE-UDC'}
+- {name: 'GERN-UEX', title: 'Grupo Experimental de Radiaciones Nucleares',  institution: 'UEX',  image: 'assets/img/UEX.png', url: 'GERN-UEX'}
+- {name: 'GFN-UGR', title: 'Grupo de Física Nuclear',  institution: 'UGR',  image: 'assets/img/UGR.png', url: 'GFN-UGR'}
+- {name: 'FSM-UHU', title: 'Física Subatómica y Molecular',  institution: 'UHU',  image: 'assets/img/UHU.png', url: 'FSM-UHU'}
+- {name: 'SIN-UPC', title: 'Sección de Ingeniería Nuclear',  institution: 'UPC',  image: 'assets/img/UPC.png', url: 'SIN-UPC'}
+- {name: 'GFN-US', title: 'Grupo de Física Nuclear',  institution: 'US',  image: 'assets/img/US.png', url: 'GFN-US'}
+- {name: 'GFTENA-USAL', title: 'Grupo de Física y Tecnología en Estructura Nuclear y Aplicaciones',  institution: 'USAL',  image: 'assets/img/USAL.png', url: 'GFTENA-USAL'}
+- {name: 'GENP-USC', title: 'Grupo Experimental de Núcleos y Partículas',  institution: 'USC',  image: 'assets/img/USC.png', url: 'GENP-USC'}
+- {name: 'GFICA-USC', title: 'Física Corpuscular y Aplicaciones',  institution: 'USC',  image: 'assets/img/USC.png', url: 'GFICA-USC'}
+- {name: 'DSNIM-UVIGO', title: 'Diseño y Simulación Numérica en Ingeniería Mecánica',  institution: 'UVIGO',  image: 'assets/img/UVIGO.png', url: 'DSNIM-UVIGO'}
+
+
 
 boletines:
 - {name: '2023', url: '2023'}
