@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 grupos:
-- {name: 'ucm_GFN', title: 'Grupo de Física Nuclear', department: 'EMFTEL', institution: 'Universidad Complitense de Madrid', institution_address: 'Facultad de Ciencias Físicas, Plaza de Ciencias 1, 28040 Madrid', image: 'assets/img/primary-investigator.jpg', url: 'https://www.ucm.es/gfn'}
+- {name: 'ucm_GFN', title: 'Grupo de Física Nuclear', department: 'EMFTEL', institution: 'Universidad Complitense de Madrid', institution_address: 'Facultad de Ciencias Físicas, Plaza de Ciencias 1, 28040 Madrid', image: 'assets/img/primary-investigator.jpg', url: 'ucm_GFN'}
 
 boletines:
 - {name: '2023', url: '2023'}
