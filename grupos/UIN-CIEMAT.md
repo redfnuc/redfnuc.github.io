@@ -1,24 +1,32 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "UIN-CIEMAT"
 ---
 
-Grupo de Física Nuclear
+Unidad de Innovación Nuclear
 
-Universidad Complutense de Madrid
+Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://www.ciemat.es/cargarGrupoInvestigacion.do?identificador=99&idArea=18&idLinea=0)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Daniel Cano Ott
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+Grupo de I+D+I en:
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
+1. Análisis, simulación y evaluación del rendimiento de reactores y estrategias de ciclo de combustible e instalaciones asociadas.
+- Reactores críticos y sistemas subcríticos y ciclos de combustible avanzados que incluyen separación y transmutación.
+- Reactores de agua ligera, reactores modulares (SMR) y de sales fundidas (MSR).
+- Combustibles tolerantes a fallos (ATF).
 
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+2. Técnicas de física nuclear, modelado de datos nucleares y herramientas de simulación.
+- Experimentos de datos nucleares en instalaciones científicas nacionales a internacionales (CERN, JRC-Geel, SPIRAL-2, FAIR?)
+- Desarrollo de herramientas de análisis, instrumentación nuclear y sistemas de toma de datos para problemas específicos.
+- Desarrollo y validación de herramientas de simulación propias con propagación de incertidumbres y cálculos de costes.
+- Proyecto de un nuevo laboratorio con un generador de neutrones para investigación básica y técnicas de caracterización (prompt and delayed gamma activation).
+
+3. Apoyo a la industria nuclear en el desarrollo de soluciones tecnológicas para aplicaciones específicas.
+- Participación en foros internacionales (OIEA, AEN/OCDE, EURATOM?)
+- Desarrollo y optimización de técnicas de caracterización e inspección de residuos radiactivos (ENUSA, ENRESA)
+- Apoyo al desmantelamiento
