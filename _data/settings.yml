@@ -8,7 +8,7 @@ menu:
 
 grupos:
 - {name: 'UIN-CIEMAT', title: 'Unidad de Innovación Nuclear',  institution: 'CIEMAT',  image: 'assets/img/CIEMAT.png', url: 'UIN-CIEMAT'}
-- {name: 'CNA-US-CSIC-JA', title: 'Centro Nacional de Aceleradores',  institution: 'CNA-US-CSIC-JA',  image: 'assets/img/CNA.jpg', url: 'CNA'}
+- {name: 'CNA-US-CSIC-JA', title: 'Centro Nacional de Aceleradores',  institution: 'CNA-US-CSIC-JA',  image: 'assets/img/CNA.jpg', url: 'CNA-US-CSIC-JA'}
 - {name: 'ICE-CSIC', title: 'Grupo de Astrofisica Nuclear y de Particulas',  institution: 'ICE-CSIC',  image: 'assets/img/ICE_CSIC.png', url: 'ICE-CSIC'}
 - {name: 'GFNE-IEM-CSIC', title: 'Grupo de Física Nuclear Experimental',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNE-IEM-CSIC'}
 - {name: 'GFNT-IEM-CSIC', title: 'Grupo de Física Nuclear Teórica',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNT-IEM-CSIC'}
