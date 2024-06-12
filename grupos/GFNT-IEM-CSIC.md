@@ -1,24 +1,14 @@
 ---
 layout: page
-title: "GFNT-UCM"
+title: "GFNT-IEM-CSIC"
 ---
-
-Grupo de Física Nuclear Teórica
 
 Instituto de Estructura de la Materia - Consejo Superior de Investigaciones Científicas
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://www.fnt.iem.cfmac.csic.es)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Eduardo Garrido Bellido
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
-
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
-
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+Este grupo de investigación investiga diferentes temas de gran actualidad en la Física Nuclear Teórica. Se trata de un trabajo de investigación básica que aborda problemas relacionados con la estructura nuclear, reacciones y propiedades de desintegración de núcleos exóticos. El principal objetivo general es desarrollar modelos teóricos que puedan aplicarse a núcleos alejados del valle de estabilidad y a procesos nucleares raros. Esta investigación tiene conexiones relevantes con la Astrofísica o Física de Partículas Elementales. Además, algunos de los modelos se pueden aplicar a diferentes campos, como la Física Atómica o la Física Molecular. Los temas a investigar también son relevantes para las instalaciones modernas de haces radiactivos en funcionamiento o en construcción, en particular para FAIR.

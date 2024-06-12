@@ -19,7 +19,7 @@ Nuestros temas de investigación incluyen:
 
 - Ecuación de estado de fases densas en objetos estelares compactos (que nos permite limitar la relación masa/relación de la estrella), incluida la interacción de la materia densa con la materia oscura
 
--Propiedades de transporte dentro de estrellas de neutrones (lo que nos permite comprender el comportamiento de sus modos hidrodinámicos, propiedades rotacionales y enfriamiento)
+- Propiedades de transporte dentro de estrellas de neutrones (lo que nos permite comprender el comportamiento de sus modos hidrodinámicos, propiedades rotacionales y enfriamiento)
 
 - Campos magnéticos
 

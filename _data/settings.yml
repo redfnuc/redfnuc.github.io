@@ -2,7 +2,7 @@ menu:
 - {name: 'sobre fnuc', url: '/sobre_fnuc'}
 - {name: 'grupos', url: '/grupos'}
 - {name: 'boletines', url: '/boletines'}
-- {name: 'noticias', url: '/publications'}
+#- {name: 'noticias', url: '/publications'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
 
