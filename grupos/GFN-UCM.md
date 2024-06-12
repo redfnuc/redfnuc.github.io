@@ -7,7 +7,7 @@ Grupo de Física Nuclear
 
 Universidad Complutense de Madrid
 
-url: [Link text](https://www.ucm.es/gfn)
+url: [Link](https://www.ucm.es/gfn)
 
 Facultad de Ciencias Físicas
 Plaza de las Ciencias 1, 28040, Madrid
