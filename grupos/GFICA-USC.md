@@ -1,24 +1,19 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "GFICA-USC"
 ---
 
-Grupo de Física Nuclear
+Física Corpuscular y Aplicaciones
 
-Universidad Complutense de Madrid
+Universidade de Santiago de Compostela
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://investigacion.usc.gal/grupos/4751/detalle?lang=es)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Beatríz Fernández Domínguez
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+Líneas de investigación:
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
-
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+- Desarrollo de detectores para Física de Partículas
+- Física Nuclear Experimental

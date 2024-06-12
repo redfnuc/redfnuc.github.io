@@ -1,24 +1,18 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "CNA-US-CSIC-JA"
 ---
 
-Grupo de Física Nuclear
+Centro Nacional de Aceleradores
 
-Universidad Complutense de Madrid
+Universidad de Sevilla - Consejo Superior de Investigaciones Científicas - Junta de Andalucía
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](http://cna.us.es/index.php/es/)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Carlos Guerrero Sánchez
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+El Centro Nacional de Aceleradores (CNA) es un centro mixto de la Universidad de Sevilla, la Junta de Andalucía y el Consejo Superior de Investigaciones Científicas, que tiene como misión el desarrollo de la investigación en aceleradores de partículas y sus múltiples aplicaciones. El CNA, reconocido como Instalación Científico-Técnica Singular (ICTS) es un centro abierto para que la comunidad científica y tecnológica nacional e internacional pueda desarrollar investigaciones utilizando sus instalaciones.
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
-
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+La aplicación sus infraestructuras cubre campos tan variados como ciencias de materiales, impacto medioambiental, física nuclear y de partículas, instrumentación nuclear, tratamiento de imágenes médicas, investigación biomédica e imagen molecular preclínica o datación, diagnóstico por imagen médica en pacientes, datación por 14C e irradiación en muestras de interés tecnológico y biológico, entre otras.

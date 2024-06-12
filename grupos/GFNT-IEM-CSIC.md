@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "GFNT-UCM"
 ---
 
-Grupo de Física Nuclear
+Grupo de Física Nuclear Teórica
 
-Universidad Complutense de Madrid
+Instituto de Estructura de la Materia - Consejo Superior de Investigaciones Científicas
 
 url: [Link](https://www.ucm.es/gfn)
 

@@ -9,7 +9,7 @@ Universidad Complutense de Madrid
 
 url: [Link](https://www.ucm.es/gfn)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Tomás R. Rodríguez Frutos
 
 ---
 

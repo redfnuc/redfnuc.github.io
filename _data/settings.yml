@@ -19,7 +19,7 @@ grupos:
 - {name: 'GFN-UAM', title: 'Grupo de Física Nuclear',  institution: 'UAM',  image: 'assets/img/UAM.png', url: 'GFN-UAM'}
 - {name: 'GFNT-UB', title: 'Grupo de Física Nuclear Teórica',  institution: 'UB',  image: 'assets/img/UB.jpg', url: 'GFNT-UB'}
 - {name: 'GFN-UCM', title: 'Grupo de Física Nuclear',  institution: 'UCM',  image: 'assets/img/UCM.png', url: 'GFN-UCM'}
-- {name: 'FINAE-UDC', title: 'Grupo de Física Nuclear',  institution: 'UDC',  image: 'assets/img/UDC.png', url: 'FINAE-UDC'}
+- {name: 'FINTAE-UDC', title: 'Grupo de Física Nuclear',  institution: 'UDC',  image: 'assets/img/UDC.png', url: 'FINTAE-UDC'}
 - {name: 'GERN-UEX', title: 'Grupo Experimental de Radiaciones Nucleares',  institution: 'UEX',  image: 'assets/img/UEX.png', url: 'GERN-UEX'}
 - {name: 'GFN-UGR', title: 'Grupo de Física Nuclear',  institution: 'UGR',  image: 'assets/img/UGR.jpg', url: 'GFN-UGR'}
 - {name: 'FSM-UHU', title: 'Física Subatómica y Molecular',  institution: 'UHU',  image: 'assets/img/UHU.png', url: 'FSM-UHU'}

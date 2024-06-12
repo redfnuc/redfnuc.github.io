@@ -1,24 +1,21 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "SIN-UPC"
 ---
 
-Grupo de Física Nuclear
+Sección de Ingeniería Nuclear
 
-Universidad Complutense de Madrid
+Universitat Politècnica de Catalunya
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://fisica.upc.edu/es/division-ing-nuclear)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Guillem Cortés Rosell
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+Esta línea está enfocada a estudios experimentales nucleares con reacciones donde los neutrones tienen un papel importante. Proporcionamos nuevos datos nucleares relevantes para nuevos diseños de tecnologías nucleares, tratamiento de residuos nucleares y combustible gastado, y astrofísica (nucleosíntesis y abundancia de núcleos). Nuestros objetivos son:
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
-
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+- Medición de propiedades de emisión de neutrones beta retardados: detector BELEN, proyecto BRIKEN
+- Medición de reacciones inducidas por neutrones: colaboración n_ToF
+- Desarrollo de detectores de neutrones avanzados.
+- Desarrollo de instrumentación nuclear.

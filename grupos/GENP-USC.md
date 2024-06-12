@@ -1,24 +1,22 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "GENP-USC"
 ---
 
 Grupo de Física Nuclear
 
-Universidad Complutense de Madrid
+Universidade de Santiago de Compostela
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://www.usc.gal/genp/)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: José Benlliure Anaya
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+Nuestro grupo está interesado en investigar la estructura y la dinámica del núcleo atómico y sus implicaciones en astrofísica. Aprovechamos las oportunidades únicas que ofrecen instalaciones europeas como GSI, CERN o GANIL para producir y caracterizar la estructura de núcleos alejados de la estabilidad, inducir reacciones de fisión o fragmentación para comprender la dinámica de la materia nuclear o investigar reacciones implicadas en procesos de nucleosíntesis. Nuestros principales programas de investigación son:
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
-
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+- Estructura de núcleos ligeros cerca de las líneas de goteo mediante reacciones de ruptura o transferencia.
+- Producción y propiedades de núcleos ricos en neutrones pesados ​​y de masa media.
+- Papel de los efectos dinámicos y estructurales en la fisión.
+- Reacciones de espalación y fragmentación.
+- También contribuimos a la definición del programa de investigación y dispositivos experimentales del nuevo Facility for Antiproton and Ion Research (FAIR). En particular, estamos involucrados en el experimento R3B (Reactions with Relativistic heavy-ion Beams) contribuyendo con el diseño y construcción del calorímetro gamma y una pared ToF de gran área para la identificación de iones pesados. El diseño de blancos activos para FAIR y SPIRAL II es otro campo de interés para nuestro grupo.

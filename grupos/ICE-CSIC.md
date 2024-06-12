@@ -1,24 +1,30 @@
 ---
 layout: page
-title: "GFN-UCM"
+title: "ICE-CSIC"
 ---
 
-Grupo de Física Nuclear
+Grupo de Astrofísica Nuclear y de Partículas
 
-Universidad Complutense de Madrid
+Instituto de Ciencias Espaciales - Consejo Superior de Investigaciones Científicas
 
-url: [Link](https://www.ucm.es/gfn)
+url: [Link](https://www.ice.csic.es/research/theory-observations?view=article&id=58&catid=2)
 
-Representante FNUC: Tomás R. Rodríguez
+Representante FNUC: Laura Tolós
 
 ---
 
-El Grupo de Física Nuclear de la Universidad Complutense de Madrid (GFN-UCM) pertenece al Departamento de Estructura de la Materia, Física Térmica y Electrónica de la Universidad Complutense de Madrid, ubicado en el CEI Moncloa. Está reconocido oficialmente como grupo de investigación por la Universidad.
+La investigación del grupo de Astrofísica Nuclear y de Partículas tiene como objetivo comprender el comportamiento de la materia en condiciones extremas de densidad y/o materia. Nos centramos principalmente en comprender la física de objetos estelares compactos a partir de sus constituyentes más pequeños, conectando así el conocimiento actual de la física de partículas subatómicas en condiciones extremas de densidad con observaciones astrofísicas.
 
-Somos un grupo multidisciplinar con múltiples líneas de investigación que incluyen:
+Nuestros temas de investigación incluyen:
 
-- Física nuclear teórica: estructura nuclear, desintegración beta, física de neutrinos.
-- Física nuclear experimental: estudio de núcleos exóticos con aplicaciones en estudios de estructura nuclear y astrofísica nuclear.
-- Detección de radiación y electrónica: desarrollo de instrumentación avanzada para física nuclear incluyendo materiales centelleantes y fotomultiplicadores, tratamiento digital y analógico de señales, electrónica avanzada.
-- Física médica y biotecnología: inteligencia artificial y técnicas de aprendizaje automático, reconstrucción de imágenes médicas, PET, tomografía ultrasónica, radioterapia, radioterapia intraoperatoria, radioterapia de protones, dosimetría.
-- Radiobiología: estudio de la tasa de dosis y los efectos LET de diferentes tipos de radiación en muestras biológicas, incluidos cultivos celulares y animales pequeños.
+- Ecuación de estado de fases densas en objetos estelares compactos (que nos permite limitar la relación masa/relación de la estrella), incluida la interacción de la materia densa con la materia oscura
+
+-Propiedades de transporte dentro de estrellas de neutrones (lo que nos permite comprender el comportamiento de sus modos hidrodinámicos, propiedades rotacionales y enfriamiento)
+
+- Campos magnéticos
+
+También estudiamos la materia a temperaturas extremadamente altas, como las que ocurren unos pocos microsegundos después del Big Bang. Nuestros temas de investigación incluyen:
+
+- Las propiedades de los quarks y hadrones en materia caliente y densa.
+
+- Descripciones efectivas de la dinámica del plasma caliente de quarks-gluones, que se estudian en los aceleradores de partículas actuales, como FAIR/GSI, LHC/CERN o RHIC/BNL.
