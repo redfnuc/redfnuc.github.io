@@ -40,7 +40,7 @@ boletines:
 - {name: '2024', url: '2024'}
 
 social:
-- {image: 'assets/img/MICIU.png', link: 'https://www.ciencia.gob.es'}
+- {icon: 'assets/img/MICIU.png', link: 'https://www.ciencia.gob.es'}
 #- {icon: 'twitter', link: 'https://twitter.com'}
 #- {icon: 'instagram', link: 'https://instagram.com'}
 #- {icon: 'linkedin', link: 'https://linkedin.com'}
