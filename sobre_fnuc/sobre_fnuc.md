@@ -21,7 +21,7 @@ f) Trasladar a la sociedad los logros científicos y tecnológicos de los grupos
 
 ---
 
-*Representantes de la Red FNUC*
+**Representantes de la Red FNUC**
 
 César Domingo Pardo - IFIC-CSIC-UV
 
