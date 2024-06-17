@@ -6,6 +6,9 @@ menu:
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
 
+sobre fnuc:
+- {name: 'FNUC', url: 'sobre_fnuc'}
+
 grupos:
 - {name: 'UIN-CIEMAT', title: 'Unidad de Innovación Nuclear',  institution: 'CIEMAT',  image: 'assets/img/CIEMAT.png', url: 'UIN-CIEMAT'}
 - {name: 'CNA-US-CSIC-JA', title: 'Centro Nacional de Aceleradores',  institution: 'CNA-US-CSIC-JA',  image: 'assets/img/CNA.jpg', url: 'CNA-US-CSIC-JA'}
