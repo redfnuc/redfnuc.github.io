@@ -6,7 +6,7 @@ menu:
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
 
-sobre fnuc:
+sobre_fnuc:
 - {name: 'FNUC', url: 'sobre_fnuc'}
 
 grupos:
