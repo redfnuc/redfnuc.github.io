@@ -12,7 +12,7 @@ sobre_fnuc:
 grupos:
 - {name: 'UIN-CIEMAT', title: 'Unidad de Innovación Nuclear',  institution: 'CIEMAT',  image: 'assets/img/CIEMAT.png', url: 'UIN-CIEMAT'}
 - {name: 'CNA-US-CSIC-JA', title: 'Centro Nacional de Aceleradores',  institution: 'CNA-US-CSIC-JA',  image: 'assets/img/CNA.jpg', url: 'CNA-US-CSIC-JA'}
-- {name: 'ICE-CSIC', title: 'Grupo de Astrofisica Nuclear y de Particulas',  institution: 'ICE-CSIC',  image: 'assets/img/ICE_CSIC.png', url: 'ICE-CSIC'}
+#- {name: 'ICE-CSIC', title: 'Grupo de Astrofisica Nuclear y de Particulas',  institution: 'ICE-CSIC',  image: 'assets/img/ICE_CSIC.png', url: 'ICE-CSIC'}
 - {name: 'GFNE-IEM-CSIC', title: 'Grupo de Física Nuclear Experimental',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNE-IEM-CSIC'}
 - {name: 'GFNT-IEM-CSIC', title: 'Grupo de Física Nuclear Teórica',  institution: 'IEM-CSIC',  image: 'assets/img/IEM_CSIC.png', url: 'GFNT-IEM-CSIC'}
 - {name: 'GA-IFIC-CSIC-UV', title: 'Grupo AGATA',  institution: 'IFIC-CSIC-UV',  image: 'assets/img/IFIC_CSIC_UV.png', url: 'GA-IFIC-CSIC-UV'}
@@ -29,7 +29,7 @@ grupos:
 - {name: 'SIN-UPC', title: 'Sección de Ingeniería Nuclear',  institution: 'UPC',  image: 'assets/img/UPC.png', url: 'SIN-UPC'}
 - {name: 'GFN-US', title: 'Grupo de Física Nuclear',  institution: 'US',  image: 'assets/img/US.png', url: 'GFN-US'}
 - {name: 'GFTENA-USAL', title: 'Grupo de Física y Tecnología en Estructura Nuclear y Aplicaciones',  institution: 'USAL',  image: 'assets/img/USAL.png', url: 'GFTENA-USAL'}
-- {name: 'GENP-USC', title: 'Grupo Experimental de Núcleos y Partículas',  institution: 'USC',  image: 'assets/img/USC.png', url: 'GENP-USC'}
+#- {name: 'GENP-USC', title: 'Grupo Experimental de Núcleos y Partículas',  institution: 'USC',  image: 'assets/img/USC.png', url: 'GENP-USC'}
 - {name: 'GFICA-USC', title: 'Física Corpuscular y Aplicaciones',  institution: 'USC',  image: 'assets/img/USC.png', url: 'GFICA-USC'}
 - {name: 'DSNIM-UVIGO', title: 'Diseño y Simulación Numérica en Ingeniería Mecánica',  institution: 'UVIGO',  image: 'assets/img/UVIGO.png', url: 'DSNIM-UVIGO'}
 
@@ -40,7 +40,7 @@ boletines:
 - {name: '2024', url: '2024'}
 
 social:
-- {icon: 'assets/img/MICIU.png', link: 'https://www.ciencia.gob.es'}
+#- {icon: 'assets/img/MICIU.png', link: 'https://www.ciencia.gob.es'}
 #- {icon: 'twitter', link: 'https://twitter.com'}
 #- {icon: 'instagram', link: 'https://instagram.com'}
 #- {icon: 'linkedin', link: 'https://linkedin.com'}
